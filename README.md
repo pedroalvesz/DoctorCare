@@ -11,14 +11,14 @@
   Desktop
 </h2>
   <div width="100%" overflow="hidden" align="center">
-  <img src="github/previewdesktop.gif" width="90%" />
+  <img src="DoctorCare/github/previewdesktop.gif" width="90%" />
   </div>
 
   <h2 align="center">
   Mobile
 </h2>
   <div width="100%" overflow="hidden" align="center">
-  <img src="github/previewmobile.gif" width="60%" />
+  <img src="DoctorCare/github/previewmobile.gif" width="60%" />
   </div>
 
 <h3 align="center"> Você pode acessar o projeto <a href="https://pedroalvesz-doctorcare.netlify.app/" target="_blank">clicando aqui.</a> </h3>
